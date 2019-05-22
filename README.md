@@ -6,7 +6,7 @@ This is a TicTacToe game using React Hooks, Context Provider and currying.
 
 Nothing is complicated there as you can see, but I wanted to experiment logic and ui decoupling using Hooks and Context Provider and it turns out to be a real success. These two helps reducing the occurences of side effects and helps state to be immutable which make the app way more understandable.
 
-Feel free to try and see how things were built and don't hesitate to poke me (@_nboisvert)[https://twitter.com/_nboisvert] if you have any question on why any decision were made that way.
+Feel free to try and see how things were built and don't hesitate to poke me [@_nboisvert](https://twitter.com/_nboisvert) if you have any question on why any decision were made that way.
 
 ## Use of currying
 
